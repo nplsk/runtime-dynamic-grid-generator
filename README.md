@@ -83,8 +83,8 @@ The primary goal of this tool is to automate the creation of experimental, grid-
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/dynamic-grid-composition-generator.git
-   cd dynamic-grid-composition-generator
+   git clone git@github.com:nplsk/runtime-dynamic-grid-generator.git
+   cd runtime-dynamic-grid-generator
 
 2.	**Open the HTML File:**
     - Open index.html in your web browser (Chrome, Firefox, etc.). This tool is intended for local use.
