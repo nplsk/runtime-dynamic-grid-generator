@@ -2,6 +2,8 @@
 
 This repository contains a JavaScript tool that dynamically generates grid-based compositions from photographic images. The layout is designed to leave reserved areas (for typography) and to create a dynamic, “river-like” flow of images that range in size—from large blocks to scattered small ones. The images are processed with Floyd–Steinberg diffusion dithering to produce a halftone black-and-white effect. The final output is rendered as separate layers (photos, margins, and a grid with numbered cells) that can be exported as PNG files for further editing in design tools like Photoshop.
 
+[See this code at work](https://runtime-dynamic-grid-generator.vercel.app)
+
 ## Purpose
 
 The primary goal of this tool is to automate the creation of experimental, grid-based layouts with these characteristics:
